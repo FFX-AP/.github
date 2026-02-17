@@ -2,7 +2,7 @@
 
 **Apworld** - https://github.com/FFX-AP/Archipelago
 
-**FFX Client** - https://github.com/FFX-AP/FFX-AP-Client
+**FFX Client** - https://github.com/FFX-AP/Archipelago-FFX-Client
 
 **Cutscene Remover** - https://github.com/FFX-AP/FFXCSRRando
 
