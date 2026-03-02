@@ -10,6 +10,6 @@
 
 ## External Resources
 
-**Fahrenheit (External)** - https://github.com/peppy-enterprises/fahrenheit
+**Fahrenheit (External)** - https://github.com/fahrenheit-crew/fahrenheit
 
 **Fahrenheit CSR 2.0 (WIP)** - https://github.com/FFX-AP/fh-mods-csr
