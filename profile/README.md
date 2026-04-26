@@ -13,3 +13,5 @@
 **Fahrenheit (External)** - https://github.com/fahrenheit-crew/fahrenheit
 
 **Fahrenheit CSR 2.0 (WIP)** - https://github.com/FFX-AP/fh-mods-csr
+
+## **Setup Guide** - https://github.com/FFX-AP/Archipelago-FFX-Client/wiki
