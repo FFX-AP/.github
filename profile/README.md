@@ -1,4 +1,4 @@
-# Final Fantast X - Archipelago Project
+# Final Fantasy X - Archipelago Project
 
 **Apworld** - https://github.com/FFX-AP/Archipelago
 
